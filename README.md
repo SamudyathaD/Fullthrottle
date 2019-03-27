@@ -3,7 +3,10 @@ This Loan Calculator script calculates the interest rate and the payment to be d
 
 # Features
 Enter the variables into the form
+---
 Calculate monthly payment and total interest
+---
 Use of slider gives the user the experience of a calculation in progress.
+---
 
 ![](image.png)
