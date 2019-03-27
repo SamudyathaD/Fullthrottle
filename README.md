@@ -16,7 +16,7 @@ Use of slider gives the user the experience of a calculation in progress.
 BootStrap
 
 # How to run
-1. copy the code present in the index.html.
+1. copy the code present in the fullthrottletest.html.
 ---
 2. paste it into a file in any text editor(notepad,visual studio,notepad++)
 ---
